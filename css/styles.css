@@ -1,0 +1,25 @@
+div {
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    padding: 50px 50px;
+    border: 10px solid rgb(60, 209, 105);
+  }
+  
+  .container {
+    background-color: #FF8630;
+    padding: 55px 40px;
+    border: 10px solid rgb(194, 209, 60);
+  }
+  
+  .first {
+    box-sizing: content-box;
+    background-color: #2e89ff;
+  }
+  
+  .second {
+    box-sizing: border-box;
+    background-color: #F498AD;
+  }
+  
+  
